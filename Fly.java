@@ -11,7 +11,11 @@ public interface Fly {
 	void land();
 	
 	default void glide() {
-		System.out.println("It glides into the air.");
+		System.out.println("He glides into the air.");
+	}
+	
+	default void saiyanMark() {
+		System.out.println("He use Kaiooooooookeen !");
 	}
 	
 }

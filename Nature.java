@@ -10,8 +10,7 @@ public class Nature {
         pingou.swimUp(5);
         pingou.swimUp(1);
         pingou.getOut();
-        pingou.sing();
-
+      
         Eagle isma = new Eagle("Isma");
         // TODO : uncomment the following code in order to test it , c'est ce que j'ai fait ça tombe bien !
        
@@ -23,6 +22,6 @@ public class Nature {
         isma.land();
         isma.descend(9);
         isma.land();  
-        isma.sing();
+        isma.saiyanMark();
     }
 }
