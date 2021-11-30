@@ -19,6 +19,7 @@ public class Eagle extends Bird implements Fly {
     }
 
     // the @override keyword is used for a method that implements an interface
+    // Just inspired by Penguin.java
     
     @Override
     public String sing() {
