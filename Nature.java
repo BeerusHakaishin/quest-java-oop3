@@ -20,8 +20,6 @@ public class Nature {
         isma.glide();
         isma.descend(140);
         isma.land();
-        isma.descend(9);
-        isma.land();  
         isma.saiyanMark();
     }
 }
