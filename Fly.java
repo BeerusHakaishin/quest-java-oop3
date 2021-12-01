@@ -14,7 +14,7 @@ public interface Fly {
 		System.out.println("He glides into the air.");
 	}
 	
-	default void saiyanMark() {
+	default void kaioken() {
 		System.out.println("He use Kaiooooooookeen !");
 	}
 	
